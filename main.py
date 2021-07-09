@@ -22,4 +22,4 @@ class WordCloudAPI(Resource):
 api.add_resource(WordCloudAPI, '/wordcloud')
 
 if __name__ == '__main__':
-    app.run()  # run our Flask app
+    app.run(host="0.0.0.0", port=8000)  # run our Flask app
