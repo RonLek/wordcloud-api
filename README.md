@@ -61,5 +61,5 @@ http://localhost:8000/wordcloud?text="english hindi spanish portuguese german ma
 
 Accepting feature requests and bugs on the [issues](https://github.com/RonLek/wordcloud-api/issues) page.
 
-## ❤️ Show your support
+## 🌟 Show your support
 Please star this repository if this project helped you!
